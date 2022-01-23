@@ -87,3 +87,43 @@ CHAPTER-1 IMPLEMENTATION
 Technologies used    - Python 3.7
 Python Tkinter GUI 
 Language used         - Python
+
+GUI – Main display window with name of  Advanced Music Player
+
+1.GUI of Advanced Music Player
+
+
+
+it is a front end of the Advanced Music Player
+
+
+2.Opening music file from filedialog
+
+
+
+
+
+
+
+
+
+
+
+
+3. Buttons of music play
+
+
+
+
+
+
+
+
+4. Playing music
+5.exit system
+
+CHAPTER-4 CONCLUSION
+
+This project has really been faithful and informative. It has made us learn and understand the many trivial concepts of Python Language. As we have used python tkinter as a GUI it provides various controls, such as buttons, labels and text boxes to build a user friendly application.
+The fast growing use of internet confirms the good future and scope of the proposed project.
+Finally it has taught us a valuable lifelong lesson about the improvements and working and interacting in a group.
